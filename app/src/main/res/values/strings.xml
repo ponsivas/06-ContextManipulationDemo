@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">J6_HeightConverter</string>
+    <string name="inches_to_centimeter_converter">INCHES to CENTIMETER CONVERTER</string>
+    <string name="inches_value_display">INCHES VALUE DISPLAY</string>
+    <string name="convert">CONVERT</string>
+    <string name="centimeters_display">CENTIMETERS DISPLAY</string>
+    <string name="clear">CLEAR</string>
+    <string name="dr_p_sivaram">Dr.P.Sivaram</string>
+</resources>
